@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tyler-schultz
+- 👋 Hi, I’m Tyler Schultz!
 - 🌱 I’m currently learning computer science at Colorado State University.
 - 📫 contact@tylerschultz.com
 - 🌐 https://tylerschultz.com
