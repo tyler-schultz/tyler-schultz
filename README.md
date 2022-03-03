@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tyler Schultz!
-- 🌱 I’m currently learning computer science at Colorado State University.
+- 🌱 I’m a recently graduated computer science student open to work.
 - 📫 contact@tylerschultz.com
 - 🌐 https://tylerschultz.com
